@@ -451,9 +451,10 @@ within the IT resource group. The Accounting resource group contained
 only the Marketing Key Vault, and the Marketing resource group contained 
 only the Accounting Key Vault.
 
-<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/4af4368d-c0ac-40bb-82a7-798672716ffd" />
-<img width="975" height="400" alt="image" src="https://github.com/user-attachments/assets/f550e2fd-ef58-4d39-98bb-2460b14bc25f" />
-<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/4c884304-5ba4-4aea-ac8e-5b02111e377c" />
+<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/028d4c19-8beb-44f3-8d68-44099924bddf" />
+<img width="975" height="400" alt="image" src="https://github.com/user-attachments/assets/8bf57fb6-6978-48bf-9150-011fcc2724af" />
+<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/1c4bf04e-ade2-4927-b2bc-40b03b9a123e" />
+
 
 ### Asset Remediation
 
@@ -466,12 +467,13 @@ Move the following assets from `IT-rg` to `Accounting-rg`:
 
 1. Select the assets and click **Move > Move to another resource group**
 2. Set the destination to `Accounting-rg` and confirm
+<img width="975" height="406" alt="image" src="https://github.com/user-attachments/assets/ffbebde8-af59-4166-9ab7-8d2df072921f" />
+<img width="975" height="404" alt="image" src="https://github.com/user-attachments/assets/7b203155-86cc-4abc-8e5c-b1fd51e35262" />
+<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/10df08a4-a9fc-4e43-a645-8bca0b010f1c" />
+<img width="975" height="400" alt="image" src="https://github.com/user-attachments/assets/082aa3da-b831-4718-92bf-14a367530cce" />
+<img width="975" height="398" alt="image" src="https://github.com/user-attachments/assets/cb98d9c1-6bc8-45fb-8122-c3c65ee1b70c" />
 
-   <img width="975" height="406" alt="image" src="https://github.com/user-attachments/assets/9fc272eb-9754-4018-b43e-605cd08a7f29" />
-   <img width="975" height="404" alt="image" src="https://github.com/user-attachments/assets/191c7f74-5da4-449a-acbe-ffed78779cb3" />
-   <img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/432f90c7-4c80-447f-9926-c43343cddc7d" />
-   <img width="975" height="400" alt="image" src="https://github.com/user-attachments/assets/d1cd39d2-55cc-4cf0-8535-bb5ad8b21c5d" />
-   <img width="975" height="398" alt="image" src="https://github.com/user-attachments/assets/73053663-bc1c-4273-8c59-145969afdf33" />
+
 
 Repeat the same process to move the following to `Marketing-rg`:
 - `marketing-vm`
@@ -479,11 +481,12 @@ Repeat the same process to move the following to `Marketing-rg`:
 - `marketing-vmNic`
 - `marketing-vnet`
 
-<img width="975" height="372" alt="image" src="https://github.com/user-attachments/assets/2ad0cb9e-447d-4b85-ad65-78d0d70fdf10" />
-<img width="975" height="405" alt="image" src="https://github.com/user-attachments/assets/a004c0bd-eb18-4592-be07-0303fe6fdedb" />
-<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/5a340a78-abbb-4258-a8af-07465ed79ef5" />
-<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/9a8258cf-d050-4ddb-8943-f883eaae4d3b" />
-<img width="975" height="371" alt="image" src="https://github.com/user-attachments/assets/000d4455-c4a9-4ffe-975b-b48121ba99e9" />
+<img width="975" height="372" alt="image" src="https://github.com/user-attachments/assets/2b59dbe2-5360-4ef6-b080-402a45b59834" />
+<img width="975" height="405" alt="image" src="https://github.com/user-attachments/assets/803e7d43-0b5e-48ad-9f9c-4a67c9ea8738" />
+<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/58600464-91cf-4ac3-90cc-b294f0a185a8" />
+<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/5863594b-d3bc-4426-9293-e1970e3d3966" />
+<img width="975" height="371" alt="image" src="https://github.com/user-attachments/assets/027bb023-9f73-4ec2-a0d3-c2530293b9b6" />
+
 
 
 
